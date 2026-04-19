@@ -8,7 +8,7 @@
 </h1>
 
 <p align="center">
-  <em>「 数据之海的导航者 —— 在代码与二次元之间反复横跳 」</em>
+  <em>「  」</em>
 </p>
 
 <!-- Social Badges -->
@@ -33,13 +33,7 @@
 ### ✦ About Me
 
 ```yaml
-name: Pakchuii
-location: China 🇨🇳
-role: Full-Stack Developer & CS Student
-working_on: DataAnalyzer Pro (全栈模块化数据分析平台)
-learning: Machine Learning, Data Visualization
-interests: ["Web Dev", "Data Science", "Anime", "UI Design"]
-fun_fact: "My app cursor is from Blue Archive ✦"
+
 ```
 
 ---
