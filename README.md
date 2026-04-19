@@ -11,7 +11,7 @@
   <img src="showcase.webp" style="width: 100%; border-radius: 12px; box-shadow: 0 6px 16px rgba(0, 174, 239, 0.15); border: 4px double #E0F2FE;" alt="Showcase Banner" />
 
   <p align="center" style="color: #00AEEF; margin: 15px 0;">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkles.png" width="20" /> ┈┈┈┈┈┈┈┈┈┈┈┈ ✧ 💠 ✧ ┈┈┈┈┈┈┈┈┈┈┈┈ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkles.png" width="20" />
+    ✨ ┈┈┈┈┈┈┈┈┈┈┈┈ ✧ 💠 ✧ ┈┈┈┈┈┈┈┈┈┈┈┈ ✨
   </p>
 
   <!-- ================= 💻 极繁主义：拟物化终端视窗 ================= -->
@@ -53,7 +53,7 @@
       <!-- ================= 💻 中面板：多层边框嵌套记录 ================= -->
       <td width="55%" valign="top" style="padding: 15px 25px;">
         <h3 style="color: #00AEEF; margin-top: 0; border-bottom: 3px double #BAE6FD; padding-bottom: 5px;">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="22" /> System Log
+          💻 System Log
         </h3>
         <pre lang="yaml" style="background-color: #F8FAFC; border: 2px dashed #7DD3FC; color: #1E3A8A; border-radius: 12px; padding: 15px; font-size: 0.9em; font-family: 'TsukuARdGothic-Regular', 'Nunito', 'YouYuan', '幼圆', monospace;"><code>name: "Pakchuii"
 club: "Computer Science"
@@ -68,7 +68,7 @@ skills:
   - 具有 12H 宅家抗性</code></pre>
         <br>
         <h3 style="color: #00AEEF; border-bottom: 3px double #BAE6FD; padding-bottom: 5px;">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Notebook.png" width="22" /> Terminal Stats
+          📊 Terminal Stats
         </h3>
         <p align="center" style="margin:0; padding:0;">
           <img width="98%" src="https://github-readme-stats.vercel.app/api?username=Pakchuii&show_icons=true&hide_border=false&bg_color=FFFFFF&title_color=00AEEF&icon_color=0284C7&text_color=475569&border_color=7DD3FC&border_radius=12" />
@@ -77,14 +77,14 @@ skills:
         </p>
         <br>
         <h3 style="color: #00AEEF; border-bottom: 3px double #BAE6FD; padding-bottom: 5px;">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="22" /> Activity Graph
+          📈 Activity Graph
         </h3>
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pakchuii&theme=snow&hide_border=true&bg_color=F8FAFC&color=0284C7&line=38BDF8&point=FFFFFF&area=true&area_color=E0F2FE" width="100%" style="border-radius: 12px; border: 2px dotted #7DD3FC;" />
       </td>
       <!-- ================= 📸 右面板：副屏监视器与相册流 ================= -->
       <td width="22%" valign="top" align="center" style="border-left: 3px double #BAE6FD; padding: 15px;">
         <h3 style="color: #00AEEF; margin-top: 0; border-bottom: 2px dotted #BAE6FD; padding-bottom: 5px;">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" width="20" /> Sync...
+          💙 Sync...
         </h3>
         <div align="left" style="font-size: 0.85em; background-color: #FFF; padding: 12px; border-radius: 12px; border: 2px dashed #7DD3FC; color: #334155; margin-bottom: 10px;">
           🎧 <b style="color:#0284C7;">Music 🎵</b><br>&nbsp;&nbsp;<i>Nine Point Eight</i><br><br>
@@ -96,7 +96,7 @@ skills:
         <br>
         <hr style="border: 1px dashed #7DD3FC;">
         <h3 style="color: #00AEEF; line-height: 1.2;">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera.png" width="22" /> Momotalk
+          📸 Momotalk
         </h3>
         <img src="photo1.jpg" width="95%" style="border-radius: 8px; border: 4px solid #FFF; border-bottom: 12px solid #FFF; box-shadow: 0 6px 16px rgba(0,0,0,0.12); margin-top: 5px; margin-bottom: 12px;" alt="Photo 1" />
         <img src="photo2.jpg" width="95%" style="border-radius: 8px; border: 4px solid #FFF; border-bottom: 12px solid #FFF; box-shadow: 0 6px 16px rgba(0,0,0,0.12);" alt="Photo 2" />
@@ -105,7 +105,7 @@ skills:
   </table>
 
   <p align="center" style="color: #00AEEF; margin: 15px 0;">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkles.png" width="20" /> ┈┈┈┈┈┈┈┈┈┈┈┈ ✧ 💠 ✧ ┈┈┈┈┈┈┈┈┈┈┈┈ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkles.png" width="20" />
+    ✨ ┈┈┈┈┈┈┈┈┈┈┈┈ ✧ 💠 ✧ ┈┈┈┈┈┈┈┈┈┈┈┈ ✨
   </p>
 
   <!-- ✨ Footer Video Banner ✨ -->
