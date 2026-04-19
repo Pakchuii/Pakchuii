@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=M+PLUS+Rounded+1c&weight=600&size=24&duration=4000&pause=1000&color=00AEEF&center=true&vCenter=true&width=450&lines=%E3%81%8A%E3%81%8B%E3%81%88%E3%82%8A%E3%81%AA%E3%81%95%E3%81%84%E3%80%81%E5%85%88%E7%94%9F%EF%BC%81%20%F0%9F%8E%8F;I'm+Pakchuii+%E2%9C%A6;Welcome+to+SCHALE+Office+%E2%98%95" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=M+PLUS+Rounded+1c&weight=600&size=24&duration=4000&pause=1000&color=00AEEF&center=true&vCenter=true&width=480&lines=信じる心があなたの魔法+✨;相信的心就是你的魔法+🌟;I'm+Pakchuii+🎐" alt="Typing SVG" />
 </h1>
 
 <p align="center" style="color: #00AEEF;">
