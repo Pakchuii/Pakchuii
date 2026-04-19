@@ -9,7 +9,7 @@
 
 <!-- ✨ 展示画幅 ✨ -->
 <p align="center">
-  <img src="showcase.png" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0, 174, 239, 0.15); border: 2px solid #E0F2FE;" alt="Showcase Banner" />
+  <img src="showcase.jpg" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0, 174, 239, 0.15); border: 2px solid #E0F2FE;" alt="Showcase Banner" />
 </p>
 
 <p align="center" style="color: #00AEEF;">
@@ -56,11 +56,25 @@ skills:
   ┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ✧ 💠 ✧ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 </p>
 
-<!-- Footer Banner -->
+<!-- 🎀 Momotalk Gallery (纪念相册) -->
+<h3 align="center" style="color: #00AEEF;">✦ Momotalk Gallery ✦</h3>
 <p align="center">
-  <img src="banner.png" width="100%" style="border-radius: 12px; border: 2px solid #E0F2FE;" />
+  <!-- 注：请在仓库里上传您自己的相片/截图，分别命名为 photo1.jpg, photo2.jpg, photo3.jpg，并且尽量使用比例相同的横屏或方块图 -->
+  <img src="photo1.jpg" width="31%" style="border-radius: 12px; border: 2px solid #E0F2FE; box-shadow: 0 4px 8px rgba(0,174,239,0.1);" alt="Gallery Image 1" />&nbsp;
+  <img src="photo2.jpg" width="31%" style="border-radius: 12px; border: 2px solid #E0F2FE; box-shadow: 0 4px 8px rgba(0,174,239,0.1);" alt="Gallery Image 2" />&nbsp;
+  <img src="photo3.jpg" width="31%" style="border-radius: 12px; border: 2px solid #E0F2FE; box-shadow: 0 4px 8px rgba(0,174,239,0.1);" alt="Gallery Image 3" />
+</p>
+
+<p align="center" style="color: #00AEEF;">
+  ┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ✧ 💠 ✧ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+</p>
+
+<!-- ✨ Footer Video Banner (动态视频横幅) ✨ -->
+<!-- ⚠️ 注：GitHub 不支持 mp4，请使用剪辑软件或网页工具将您的视频导出为高画质的 .gif 格式，并命名为 banner.gif 传到仓库。 -->
+<p align="center">
+  <img src="banner.gif" width="100%" style="border-radius: 12px; border: 2px solid #E0F2FE;" alt="Dynamic Video Banner" />
 </p>
 
 <p align="center">
-  <sub>✦ Welcome to SCHALE Terminal · Developed with Coffee ✦</sub>
+  <sub style="color: #94A3B8;">✦ Welcome to SCHALE Terminal · Developed with Coffee ✦</sub>
 </p>
