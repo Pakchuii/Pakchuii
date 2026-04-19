@@ -32,7 +32,7 @@ skills:
   - 擅长深夜思考人生
   - 具有 12H 宅家抗性
     </code></pre></td><td width="30%" valign="top"><h3>✦ Current Sync...</h3><p>🎧 <b>Listening to:</b><br>&nbsp;&nbsp;<i>Nine Point Eight
- 🎵</i></p><p>📺 <b>Watching:</b><br>&nbsp;&nbsp;<i>咒术回战</i></p><p>📜 <b>Commission:</b><br>&nbsp;&nbsp;努力把学分修完...</p><p>🍃 <b>Favorite:</b><br>&nbsp;&nbsp;夏天</p><p>🔋 <b>咖啡摄入Level:</b><br>&nbsp;&nbsp;<code>[████▒▒▒▒▒▒] 40%</code></p></td></tr></table></div>
+ 🎵</i></p><p>📺 <b>Watching:</b><br>&nbsp;&nbsp;<i>金牌得主</i></p><p>📜 <b>Commission:</b><br>&nbsp;&nbsp;努力把学分修完...</p><p>🍃 <b>Favorite:</b><br>&nbsp;&nbsp;夏天</p><p>🔋 <b>咖啡摄入Level:</b><br>&nbsp;&nbsp;<code>[████▒▒▒▒▒▒] 40%</code></p></td></tr></table></div>
 
 <p align="center" style="color: #00AEEF;">
   ┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ✧ 💠 ✧ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈
@@ -41,7 +41,7 @@ skills:
 <!-- Personality Tags -->
 <p align="center">
   <img src="https://img.shields.io/badge/所属-SCHALE-00AEEF?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/性格-易怒-C084FC?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/性格-随和-C084FC?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/爱好-摸鱼-F472B6?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/特征-透明-38BDF8?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/状态-毕设工作中...-FBBF24?style=for-the-badge&logoColor=white" />
