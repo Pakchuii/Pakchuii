@@ -56,17 +56,6 @@ skills:
   ┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ✧ 💠 ✧ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 </p>
 
-<!-- 🎀 Momotalk Gallery (纪念相册) -->
-<h3 align="center" style="color: #00AEEF; font-family: 'TsukuARdGothic-Regular', 'Nunito', 'YouYuan', '幼圆', sans-serif;">✦ Momotalk Gallery ✦</h3>
-<p align="center">
-  <img src="photo1.jpg" width="31%" style="border-radius: 12px; border: 2px solid #E0F2FE; box-shadow: 0 4px 8px rgba(0,174,239,0.1);" alt="Gallery Image 1" />&nbsp;
-  <img src="photo2.jpg" width="31%" style="border-radius: 12px; border: 2px solid #E0F2FE; box-shadow: 0 4px 8px rgba(0,174,239,0.1);" alt="Gallery Image 2" />&nbsp;
-  <img src="photo3.jpg" width="31%" style="border-radius: 12px; border: 2px solid #E0F2FE; box-shadow: 0 4px 8px rgba(0,174,239,0.1);" alt="Gallery Image 3" />
-</p>
-
-<p align="center" style="color: #00AEEF;">
-  ┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ✧ 💠 ✧ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-</p>
 
 <!-- ✨ Footer Video Banner (动态视频横幅) ✨ -->
 <p align="center">
