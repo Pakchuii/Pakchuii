@@ -22,9 +22,6 @@
 <!-- Personality Tags -->
 <p align="center">
   <img src="https://img.shields.io/badge/身份-大学生-38bdf8?style=flat-square" />
-  <img src="https://img.shields.io/badge/方向-全栈开发-818cf8?style=flat-square" />
-  <img src="https://img.shields.io/badge/爱好-二次元-ff6b9d?style=flat-square" />
-  <img src="https://img.shields.io/badge/性格-INTP-a78bfa?style=flat-square" />
   <img src="https://img.shields.io/badge/状态-摸鱼中-fcd34d?style=flat-square" />
 </p>
 
@@ -40,9 +37,7 @@
 
 ### ✦ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,vue,js,html,css,flask,vite,git,github,vscode&theme=dark&perline=10" />
-</p>
+
 
 ---
 
@@ -62,15 +57,7 @@
 
 ### ✦ Featured Project
 
-<a href="https://github.com/Pakchuii/DataAnalyzer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pakchuii&repo=DataAnalyzer&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=818cf8&text_color=c9d1d9" />
-</a>
 
-> 🧪 **DataAnalyzer Pro** — 全栈模块化数据分析平台  
-> Vue 3 + Flask + Glassmorphism UI + AI Inference Engine  
-> 支持浏览器 & 原生桌面端双模式运行 ✦
-
----
 
 ### ✦ Activity Graph
 
