@@ -9,7 +9,7 @@
 
 <!-- ✨ 自动裁剪展示图框 ✨ (您可以随时替换 showcase.jpg，不管原图多大，它都会自动截取成一条好看的横幅) -->
 <p align="center">
-  <img src="showcase.jpg" style="width: 100%; height: 220px; object-fit: cover; object-position: center; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" alt="Showcase Banner" />
+  <img src="showcase.png" style="width: 100%; height: 220px; object-fit: cover; object-position: center; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" alt="Showcase Banner" />
 </p>
 
 <hr>
