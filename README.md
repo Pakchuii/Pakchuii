@@ -9,7 +9,7 @@
 
 <!-- ✨ 展示画幅 ✨ -->
 <p align="center">
-  <img src="showcase.webp" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0, 174, 239, 0.15); border: 2px solid #E0F2FE;" alt="Showcase Banner" />
+  <img src="showcase.gif" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0, 174, 239, 0.15); border: 2px solid #E0F2FE;" alt="Showcase Banner" />
 </p>
 
 <p align="center" style="color: #00AEEF;">
