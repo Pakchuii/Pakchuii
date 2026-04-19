@@ -23,15 +23,16 @@ personality: "INTP-T · 偶尔出没"
 status: "大概在摸鱼..."
 
 hobbies:
-  - 🎮 Blue Archive / 原神
-  - 🎨 漫游 Pixiv
+  - 🎮 ALL系杂食党
+  - 🎨 正在学习中
   - ☕ 摄取咖啡因
   - 💻 偶尔敲敲键盘
 
 skills:
   - 擅长深夜思考人生
   - 具有 12H 宅家抗性
-  - 毫无疑问的猫派 🐈</code></pre></td><td width="30%" valign="top"><h3>✦ Current Sync...</h3><p>🎧 <b>Listening to:</b><br>&nbsp;&nbsp;<i>Unwelcome School 🎵</i></p><p>📺 <b>Watching:</b><br>&nbsp;&nbsp;<i>葬送的芙莉莲</i></p><p>📜 <b>Commission:</b><br>&nbsp;&nbsp;努力把学分修完...</p><p>🍃 <b>Favorite:</b><br>&nbsp;&nbsp;秋天 (准备好外套)</p><p>🔋 <b>AP Level:</b><br>&nbsp;&nbsp;<code>[████▒▒▒▒▒▒] 40%</code></p></td></tr></table></div>
+    </code></pre></td><td width="30%" valign="top"><h3>✦ Current Sync...</h3><p>🎧 <b>Listening to:</b><br>&nbsp;&nbsp;<i>Nine Point Eight
+ 🎵</i></p><p>📺 <b>Watching:</b><br>&nbsp;&nbsp;<i>咒术回战</i></p><p>📜 <b>Commission:</b><br>&nbsp;&nbsp;努力把学分修完...</p><p>🍃 <b>Favorite:</b><br>&nbsp;&nbsp;夏天</p><p>🔋 <b>咖啡摄入Level:</b><br>&nbsp;&nbsp;<code>[████▒▒▒▒▒▒] 40%</code></p></td></tr></table></div>
 
 <p align="center" style="color: #00AEEF;">
   ┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ✧ 💠 ✧ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈
@@ -40,13 +41,13 @@ skills:
 <!-- Personality Tags -->
 <p align="center">
   <img src="https://img.shields.io/badge/所属-SCHALE-00AEEF?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/性格-INTP-C084FC?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/爱好-二次元-F472B6?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/特征-摸鱼鸭-38BDF8?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/状态-AP_回复中...-FBBF24?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/性格-易怒-C084FC?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/爱好-摸鱼-F472B6?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/特征-透明-38BDF8?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/状态-毕设工作中...-FBBF24?style=for-the-badge&logoColor=white" />
 </p>
 
-<!-- ✨ GitHub Stats: Blue Archive Light Theme ✨ -->
+<!-- ✨ GitHub Stats: Light Theme ✨ -->
 <p align="center">
   <img height="155" src="https://github-readme-stats.vercel.app/api?username=Pakchuii&show_icons=true&hide_border=false&bg_color=F6FBFF&title_color=00AEEF&icon_color=0284C7&text_color=475569&border_color=BAE6FD&border_radius=10&count_private=true" />
   <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pakchuii&layout=compact&hide_border=false&bg_color=F6FBFF&title_color=00AEEF&text_color=475569&border_color=BAE6FD&border_radius=10" />
