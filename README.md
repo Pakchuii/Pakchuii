@@ -1,4 +1,4 @@
-<!-- Banner: upload github_banner_cropped.png as "banner.png" to your repo -->
+<!-- Banner -->
 <p align="center">
   <img src="banner.png" width="100%" />
 </p>
@@ -9,17 +9,19 @@
 </h1>
 
 <p align="center">
-  <em>「 在代码与二次元之间反复横跳的人 」</em>
+  <em>「 即使是魔法，也有科学无法解释的可爱之处✦ 」</em>
 </p>
 
 ---
 
-<!-- Main Content: Left-Right Layout -->
-<table>
+<!-- Main Content: Thre-Column Layout -->
+<div align="center">
+<table width="100%">
   <tr>
-    <td width="35%" align="center">
+    <!-- 左栏：个人名片 -->
+    <td width="28%" align="center" valign="top">
       <br>
-      <img src="https://github.com/Pakchuii.png" width="180" style="border-radius:50%;" />
+      <img src="https://github.com/Pakchuii.png" width="160" style="border-radius:50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
       <br><br>
       <strong>Pakchuii</strong>
       <br>
@@ -32,33 +34,58 @@
       <img src="https://img.shields.io/badge/📧_Mail-Contact_Me-818cf8?style=flat-square" />
       <br><br>
       <img src="https://komarev.com/ghpvc/?username=Pakchuii&style=flat-square&color=38bdf8&label=Visitors" />
-      <br><br>
     </td>
-    <td width="65%">
 
-### ✦ 关于我
+    <!-- 中栏：YAML 个人信息 -->
+    <td width="42%" valign="top">
+
+### ✦ About Me
 
 ```yaml
-name: Pakchuii
-identity: Computer Science Student
-personality: INTP-T · 内向但话多
-status: 大概在摸鱼...
+name: "Pakchuii"
+identity: "Student"
+personality: "INTP-T · 内向但话多"
+status: "大概在摸鱼..."
 
 hobbies:
-  - 🎮 打游戏 (碧蓝档案 / 原神)
-  - 🎨 看动漫 & 刷 Pixiv
-  - ☕ 咖啡续命
-  - 🎵 听歌发呆
-  - 💻 偶尔写写代码
+  - 🎮 Gaming (Blue Archive / Genshin)
+  - 🎨 Anime & Illustration
+  - ☕ Coffee Addiction
+  - 🎵 Music 
 
-favorite_quote: "能跑就行.jpg"
-favorite_season: 秋天 🍂
-coffee_addiction_level: ████████░░ 80%
+traits:
+  - 擅长深夜思考人生
+  - 可以连续 12 小时不出门
+  - 猫派 🐈
 ```
+    </td>
 
-</td>
+    <!-- 右栏：近期状态/喜好 -->
+    <td width="30%" valign="top">
+
+### ✦ Currently...
+
+<br>
+
+🎧 **Listening to:**
+> *Unwelcome School* - Blue Archive OST
+
+📖 **Watching:**
+> *葬送的芙莉莲* / *孤独摇滚!*
+
+🎮 **Main Quest:**
+> 努力把学分修完...
+
+🍂 **Favorite Season:**
+> 秋天 (因为可以穿外套)
+
+🔋 **Energy Level:**
+> `[████▒▒▒▒▒▒] 40%`
+
+    </td>
   </tr>
 </table>
+</div>
 
 ---
 
