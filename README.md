@@ -72,7 +72,7 @@ skills:
 <!-- ✨ Footer Video Banner (动态视频横幅) ✨ -->
 <!-- ⚠️ 注：GitHub 不支持 mp4，请使用剪辑软件或网页工具将您的视频导出为高画质的 .gif 格式，并命名为 banner.gif 传到仓库。 -->
 <p align="center">
-  <img src="banner.webp" width="100%" style="border-radius: 12px; border: 2px solid #E0F2FE;" alt="Dynamic Video Banner" />
+  <img src="banner.gif" width="100%" style="border-radius: 12px; border: 2px solid #E0F2FE;" alt="Dynamic Video Banner" />
 </p>
 
 <p align="center">
