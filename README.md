@@ -14,8 +14,8 @@
 
 <hr>
 
-<!-- 纯 HTML 三栏表格结构：内部完全不要留空行 -->
-<table width="100%" style="width: 100%;"><tr><td width="28%" align="center" valign="top"><br><img src="https://github.com/Pakchuii.png" width="160" style="border-radius:50%;" /><br><br><strong>Pakchuii</strong><br><sub>China 🇨🇳 · CS Student</sub><br><br><a href="http://pakchuii.xyz"><img src="https://img.shields.io/badge/🌐_Blog-pakchuii.xyz-38bdf8?style=flat-square" /></a><br><img src="https://img.shields.io/badge/📧_Mail-Contact_Me-818cf8?style=flat-square" /><br><br><img src="https://komarev.com/ghpvc/?username=Pakchuii&style=flat-square&color=38bdf8&label=Visitors" /></td><td width="42%" valign="top"><h3>✦ About Me</h3><pre lang="yaml"><code>name: "Pakchuii"
+<!-- 纯 HTML 三栏表格结构：外部强制居中 -->
+<div align="center"><table width="100%"><tr><td width="28%" align="center" valign="top"><br><img src="https://github.com/Pakchuii.png" width="160" style="border-radius:50%;" /><br><br><strong>Pakchuii</strong><br><sub>China 🇨🇳 · CS Student</sub><br><br><a href="http://pakchuii.xyz"><img src="https://img.shields.io/badge/🌐_Blog-pakchuii.xyz-38bdf8?style=flat-square" /></a><br><img src="https://img.shields.io/badge/📧_Mail-Contact_Me-818cf8?style=flat-square" /><br><br><img src="https://komarev.com/ghpvc/?username=Pakchuii&style=flat-square&color=38bdf8&label=Visitors" /></td><td width="42%" valign="top"><h3>✦ About Me</h3><pre lang="yaml"><code>name: "Pakchuii"
 identity: "Student"
 personality: "INTP-T · 内向但话多"
 status: "大概在摸鱼..."
@@ -29,7 +29,7 @@ hobbies:
 traits:
   - 擅长深夜思考人生
   - 可以连续 12 小时不出门
-  - 猫派 🐈</code></pre></td><td width="30%" valign="top"><h3>✦ Currently...</h3><p>🎧 <b>Listening to:</b><br>&nbsp;&nbsp;<i>Unwelcome School - Blue Archive</i></p><p>📖 <b>Watching:</b><br>&nbsp;&nbsp;<i>葬送的芙莉莲</i> / <i>孤独摇滚!</i></p><p>🎮 <b>Main Quest:</b><br>&nbsp;&nbsp;努力把学分修完...</p><p>🍂 <b>Favorite Season:</b><br>&nbsp;&nbsp;秋天 (因为可以穿外套)</p><p>🔋 <b>Energy Level:</b><br>&nbsp;&nbsp;<code>[████▒▒▒▒▒▒] 40%</code></p></td></tr></table>
+  - 猫派 🐈</code></pre></td><td width="30%" valign="top"><h3>✦ Currently...</h3><p>🎧 <b>Listening to:</b><br>&nbsp;&nbsp;<i>Unwelcome School - Blue Archive</i></p><p>📖 <b>Watching:</b><br>&nbsp;&nbsp;<i>葬送的芙莉莲</i> / <i>孤独摇滚!</i></p><p>🎮 <b>Main Quest:</b><br>&nbsp;&nbsp;努力把学分修完...</p><p>🍂 <b>Favorite Season:</b><br>&nbsp;&nbsp;秋天 (因为可以穿外套)</p><p>🔋 <b>Energy Level:</b><br>&nbsp;&nbsp;<code>[████▒▒▒▒▒▒] 40%</code></p></td></tr></table></div>
 
 <hr>
 
