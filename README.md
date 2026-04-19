@@ -1,3 +1,4 @@
+<!-- Header -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=M+PLUS+Rounded+1c&weight=600&size=24&duration=4000&pause=1000&color=00AEEF&center=true&vCenter=true&width=480&lines=信じる心があなたの魔法+✨;相信的心就是你的魔法+🌟;I'm+Pakchuii+🎐" alt="Typing SVG" />
 </h1>
