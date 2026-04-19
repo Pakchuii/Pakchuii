@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=M+PLUS+Rounded+1c&weight=600&size=24&duration=4000&pause=1000&color=00AEEF&center=true&vCenter=true&width=480&lines=信じる心があなたの魔法+✨;相信的心就是你的魔法+🌟;I'm+Pakchuii+🎐" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=M+PLUS+Rounded+1c&weight=600&size=24&duration=4000&pause=1000&color=00AEEF&center=true&vCenter=true&width=480&lines=%E4%BF%A1%E3%81%98%E3%82%8B%E5%BF%83%E3%81%8C%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E9%AD%94%E6%B3%95%20%E2%9C%A8;%E7%9B%B8%E4%BF%A1%E7%9A%84%E5%BF%83%E5%B0%B1%E6%98%AF%E4%BD%A0%E7%9A%84%E9%AD%94%E6%B3%95%20%F0%9F%8C%9F;I%27m%20Pakchuii%20%F0%9F%8E%90" alt="Typing SVG" />
 </h1>
 
 <p align="center" style="color: #00AEEF;">
