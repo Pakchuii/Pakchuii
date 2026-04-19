@@ -7,9 +7,9 @@
   <em>「 即使是魔法，也有科学无法解释的可爱之处✦ 」</em>
 </p>
 
-<!-- ✨ 自动裁剪展示图框 ✨ (您可以随时替换 showcase.jpg，不管原图多大，它都会自动截取成一条好看的横幅) -->
+<!-- ✨ 展示画幅 ✨ (注：由于 GitHub 不支持自动代码裁剪，请务必上传本身已经是长条横幅比例的图片，否则纵向会变得很高) -->
 <p align="center">
-  <img src="showcase.png" style="width: 100%; height: 220px; object-fit: cover; object-position: center; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" alt="Showcase Banner" />
+  <img src="showcase.png" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" alt="Showcase Banner" />
 </p>
 
 <hr>
