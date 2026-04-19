@@ -1,7 +1,4 @@
-<!-- Banner -->
-<p align="center">
-  <img src="banner.png" width="100%" />
-</p>
+
 
 <!-- Header -->
 <h1 align="center">
@@ -51,6 +48,11 @@ traits:
 </p>
 
 <hr>
+
+<!-- Banner -->
+<p align="center">
+  <img src="banner.png" width="100%" />
+</p>
 
 <p align="center">
   <sub>✦ Built with coffee and anime magic ✦</sub>
