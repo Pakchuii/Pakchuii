@@ -71,9 +71,9 @@ skills:
           📊 Terminal Stats
         </h3>
         <p align="center" style="margin:0; padding:0;">
-          <img width="98%" src="https://github-readme-stats.vercel.app/api?username=Pakchuii&show_icons=true&hide_border=false&bg_color=FFFFFF&title_color=00AEEF&icon_color=0284C7&text_color=475569&border_color=7DD3FC&border_radius=12" />
+          <img width="98%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pakchuii&show_icons=true&hide_border=false&bg_color=FFFFFF&title_color=00AEEF&icon_color=0284C7&text_color=475569&border_color=7DD3FC&border_radius=12" />
           <br><br>
-          <img width="98%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pakchuii&layout=compact&hide_border=false&bg_color=FFFFFF&title_color=00AEEF&text_color=475569&border_color=7DD3FC&border_radius=12" />
+          <img width="98%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pakchuii&layout=compact&hide_border=false&bg_color=FFFFFF&title_color=00AEEF&text_color=475569&border_color=7DD3FC&border_radius=12" />
         </p>
         <br>
         <h3 style="color: #00AEEF; border-bottom: 3px double #BAE6FD; padding-bottom: 5px;">
