@@ -71,15 +71,26 @@ skills:
           📊 Terminal Stats
         </h3>
         <p align="center" style="margin:0; padding:0;">
-          <img width="98%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pakchuii&show_icons=true&hide_border=false&bg_color=FFFFFF&title_color=00AEEF&icon_color=0284C7&text_color=475569&border_color=7DD3FC&border_radius=12" />
+          <img width="98%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pakchuii&show_icons=true&hide_border=false&bg_color=FFFFFF&title_color=00AEEF&icon_color=0284C7&text_color=475569&border_color=7DD3FC&border_radius=12" alt="Pakchuii's Stats" />
           <br><br>
-          <img width="98%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pakchuii&layout=compact&hide_border=false&bg_color=FFFFFF&title_color=00AEEF&text_color=475569&border_color=7DD3FC&border_radius=12" />
+          <img width="98%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pakchuii&layout=compact&hide_border=false&bg_color=FFFFFF&title_color=00AEEF&text_color=475569&border_color=7DD3FC&border_radius=12" alt="Top Languages" />
         </p>
         <br>
         <h3 style="color: #00AEEF; border-bottom: 3px double #BAE6FD; padding-bottom: 5px;">
-          📈 Activity Graph
+          📈 Activity Streak
         </h3>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pakchuii&theme=snow&hide_border=true&bg_color=F8FAFC&color=0284C7&line=38BDF8&point=FFFFFF&area=true&area_color=E0F2FE" width="100%" style="border-radius: 12px; border: 2px dotted #7DD3FC;" />
+        <p align="center" style="margin:0; padding:0;">
+          <img width="98%" src="https://streak-stats.demolab.com/?user=Pakchuii&theme=transparent&border=7DD3FC&stroke=38BDF8&ring=00AEEF&fire=0284C7&currStreakNum=00AEEF&sideNums=0284C7&currStreakLabel=00AEEF&sideLabels=0284C7&dates=475569&background=FFFFFF&border_radius=12" alt="Activity Streak" />
+        </p>
+        <br>
+        <h3 style="color: #00AEEF; border-bottom: 3px double #BAE6FD; padding-bottom: 5px;">
+          🌌 Featured Project · 代表作
+        </h3>
+        <p align="center" style="margin:0; padding:0;">
+          <a href="https://github.com/Pakchuii/AstralDesk">
+            <img width="98%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Pakchuii&repo=AstralDesk&theme=transparent&border_color=7DD3FC&title_color=00AEEF&icon_color=0284C7&text_color=475569&bg_color=FFFFFF&border_radius=12" alt="AstralDesk Pin Card" />
+          </a>
+        </p>
       </td>
       <!-- ================= 📸 右面板：副屏监视器与相册流 ================= -->
       <td width="22%" valign="top" align="center" style="border-left: 3px double #BAE6FD; padding: 15px;">
