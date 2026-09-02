@@ -89,7 +89,7 @@ skills:
           💙 Sync...
         </h3>
         <div align="left" style="font-size: 0.85em; background-color: #FFF; padding: 12px; border-radius: 12px; border: 2px dashed #7DD3FC; color: #334155; margin-bottom: 10px;">
-          🎧 <b style="color:#0284C7;">Music 🎵</b><br>&nbsp;&nbsp;<i>Nine Point Eight</i><br><br>
+          🎧 <b style="color:#0284C7;">Music 🎵</b> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Equalizer.gif" width="13" height="11" style="vertical-align: baseline;" /><br>&nbsp;&nbsp;<i>Nine Point Eight</i><br><br>
           📺 <b style="color:#0284C7;">Watch 📺</b><br>&nbsp;&nbsp;<i>金牌得主</i><br><br>
           📜 <b style="color:#0284C7;">Task 📋</b><br>&nbsp;&nbsp;修完学分...<br><br>
           🍃 <b style="color:#0284C7;">Fav 🌸</b><br>&nbsp;&nbsp;夏天<br><br>
@@ -100,11 +100,19 @@ skills:
         <h3 style="color: #00AEEF; line-height: 1.2;">
           📸 Momotalk
         </h3>
-        <img src="photo1.jpg" width="95%" style="border-radius: 8px; border: 4px solid #FFF; border-bottom: 12px solid #FFF; box-shadow: 0 6px 16px rgba(0,0,0,0.12); margin-top: 5px; margin-bottom: 12px;" alt="Photo 1" />
+        <div align="left" style="font-size: 0.8em; background-color: #E0F2FE; border: 2px solid #7DD3FC; border-radius: 10px; padding: 6px 10px; margin-bottom: 10px; color: #0369A1; line-height: 1.4;">
+          💬 <b>Aris:</b> 老师，今天也是充满冒险的一天！✨
+        </div>
+        <img src="photo1.jpg" width="95%" style="border-radius: 8px; border: 4px solid #FFF; border-bottom: 12px solid #FFF; box-shadow: 0 6px 16px rgba(0,0,0,0.12); margin-top: 2px; margin-bottom: 12px;" alt="Photo 1" />
         <img src="photo2.jpg" width="95%" style="border-radius: 8px; border: 4px solid #FFF; border-bottom: 12px solid #FFF; box-shadow: 0 6px 16px rgba(0,0,0,0.12);" alt="Photo 2" />
       </td>
     </tr>
   </table>
+
+  <!-- ✨ Snake Contribution Grid Animation ✨ -->
+  <p align="center" style="margin: 18px 0 10px 0;">
+    <img src="https://raw.githubusercontent.com/Pakchuii/Pakchuii/output/github-contribution-grid-snake.svg" alt="Snake animation" style="width: 100%; border-radius: 12px; border: 3px double #7DD3FC; background-color: #FAFDFF; padding: 8px; box-shadow: 0 4px 12px rgba(0, 174, 239, 0.08);" />
+  </p>
 
   <p align="center" style="color: #00AEEF; margin: 15px 0;">
     ✨ ┈┈┈┈┈┈┈┈┈┈┈┈ ✧ 💠 ✧ ┈┈┈┈┈┈┈┈┈┈┈┈ ✨
