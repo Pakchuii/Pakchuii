@@ -82,15 +82,6 @@ skills:
         <p align="center" style="margin:0; padding:0;">
           <img width="98%" src="https://streak-stats.demolab.com/?user=Pakchuii&theme=transparent&border=7DD3FC&stroke=38BDF8&ring=00AEEF&fire=0284C7&currStreakNum=00AEEF&sideNums=0284C7&currStreakLabel=00AEEF&sideLabels=0284C7&dates=475569&background=FFFFFF&border_radius=12" alt="Activity Streak" />
         </p>
-        <br>
-        <h3 style="color: #00AEEF; border-bottom: 3px double #BAE6FD; padding-bottom: 5px;">
-          🌌 Featured Project · 代表作
-        </h3>
-        <p align="center" style="margin:0; padding:0;">
-          <a href="https://github.com/Pakchuii/AstralDesk">
-            <img width="98%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Pakchuii&repo=AstralDesk&theme=transparent&border_color=7DD3FC&title_color=00AEEF&icon_color=0284C7&text_color=475569&bg_color=FFFFFF&border_radius=12" alt="AstralDesk Pin Card" />
-          </a>
-        </p>
       </td>
       <!-- ================= 📸 右面板：副屏监视器与相册流 ================= -->
       <td width="22%" valign="top" align="center" style="border-left: 3px double #BAE6FD; padding: 15px;">
